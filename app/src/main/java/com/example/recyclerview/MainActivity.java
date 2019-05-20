@@ -32,6 +32,7 @@ class MyAdap extends RecyclerView.Adapter<MyAdap.myHold> {
     String data[];
     Context context;
 
+
     public MyAdap(String[] data, Context context) {
         this.data = data;
         this.context = context;
