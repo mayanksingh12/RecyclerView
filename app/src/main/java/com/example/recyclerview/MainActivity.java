@@ -15,7 +15,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
 
-    String data[] = new String[]{"12", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42"};
+    String data[] = new String[]{"12", "42", "42", "42", "44", "45", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42", "42"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
